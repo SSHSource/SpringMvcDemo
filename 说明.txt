@@ -1,0 +1,13 @@
+Front Controller前端控制器
+
+Spring mvc基本概念
+DispatcherServlet
+Controller
+HandlerAdapter
+HandlerInterceptor拦截器
+HandlerMapping
+HandlerExecutionChain
+ModelAndView
+ViewResolver视图解析器
+View
+
